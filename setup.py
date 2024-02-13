@@ -21,7 +21,7 @@ DEPENDENCIES = (
     # specified in the docker container requirements files.
     'google-auth==2.27.0',
     'ipykernel==5.5.6',
-    'ipython==7.34.0',
+    'ipython==8.21.0',
     'notebook==6.5.5',
     'pandas==1.5.3',
     'portpicker==1.5.2',
